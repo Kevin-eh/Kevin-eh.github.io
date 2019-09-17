@@ -1,0 +1,70 @@
+body {
+    background-image: url(../images/diamond_upholstery.png);
+    background-repeat: repeat;
+}
+
+.header{
+    box-sizing: border-box;
+margin-top: 0px;
+    margin: auto;
+    background: white;
+    width: 100%;
+    height: 100px;
+    margin-bottom:10px;
+    border-bottom: 2px gray solid;
+
+}
+
+.myname {
+    position: absolute;
+    left: 20px;
+    box-sizing: border-box;
+position:relative;
+left: 50px;
+    margin: auto;
+    margin-left: 50px;
+    padding: 20px;
+    color: white;
+    background: #4aaaa5;
+    width: 300px;
+    float: left;
+    height:100px;
+  }
+
+.links
+  {margin: auto;
+      float: right}
+
+  .aboutme 
+  {   margin: auto;
+      box-sizing: border-box;
+      clear:both;
+      background-color: white;
+border: 1px silver solid;
+max-width: 960px;
+text-align: auto}
+
+.text
+{padding-left: 15px}
+
+h2 {margin-left:15px;
+    color: #4aaaa5}
+
+hr {margin: 15px}
+
+#headshot {margin:15px;
+    float:left;
+    width:200px;
+    height:200px;}
+
+    .footer{
+        box-sizing: border-box;
+    
+        margin: auto;
+        background: gray;
+        width: 100%;
+        height: 75px;
+        margin-top:50px;
+        border-top: 4px #4aaaa5 solid;
+        text-align: center;
+    }
